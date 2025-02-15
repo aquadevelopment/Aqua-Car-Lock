@@ -3,7 +3,7 @@
 ## **English**
 
 ### 🚀 About the Vehicle Lock System  
-This **FiveM Vehicle Lock System** allows players to lock and unlock their vehicles using a hotkey. It includes animations and notifications, making it a realistic and immersive addition to any server.  
+This **FiveM Car Lock System** allows players to lock and unlock their vehicles using a hotkey. It includes animations and notifications, making it a realistic and immersive addition to any server.  
 
 ### ✨ Features  
 - **Lock & Unlock Vehicles**: Players can secure their vehicles at the press of a button.  
@@ -37,7 +37,7 @@ If you encounter any issues or have questions, please contact us at https://disc
 ## **Deutsch**
 
 ### 🚀 Über das Fahrzeug-Schloss-System  
-Dieses **FiveM Fahrzeug-Schloss-System** ermöglicht es Spielern, ihre Fahrzeuge per Hotkey zu ver- und entriegeln. Es beinhaltet Animationen und Benachrichtigungen für ein realistisches Spielerlebnis.  
+Dieses **FiveM Car Lock System** ermöglicht es Spielern, ihre Fahrzeuge per Hotkey zu ver- und entriegeln. Es beinhaltet Animationen und Benachrichtigungen für ein realistisches Spielerlebnis.  
 
 ### ✨ Funktionen  
 - **Fahrzeug abschließen & aufschließen**: Spieler können ihre Fahrzeuge mit einer Taste sichern.  
